@@ -1,0 +1,9 @@
+node_modules
+Dockerfile
+.dockerignore
+.git
+.gitignore
+.vscode
+development.sqlite3
+build
+yarn.lock
